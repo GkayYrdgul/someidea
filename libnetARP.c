@@ -1,4 +1,4 @@
-//use these flags: -lnet -lpthread
+//use these links: -lnet -lpthread
 
 #include <libnet.h>
 #include <string.h>
