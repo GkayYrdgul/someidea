@@ -1,3 +1,5 @@
+//use these flags: -lnet -lpthread
+
 #include <libnet.h>
 #include <string.h>
 #include <pthread.h>
