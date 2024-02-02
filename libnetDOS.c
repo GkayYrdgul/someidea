@@ -2,7 +2,6 @@
 #include <pthread.h>
 #include <string.h>
 
-/*emaygo.com*/
 
 pthread_t thread_id[1000];
 char dest_ip_o[20];
